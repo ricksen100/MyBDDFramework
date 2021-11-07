@@ -133,7 +133,7 @@
                     </properties>
                     
                        <includes>
-						<include>**/AmazonTest.java</include>
+						<include>**/ParallelRun.java</include>
 					</includes>
 					<parallel>methods</parallel>
 					<threadCount>4</threadCount>

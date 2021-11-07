@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
-Test set: TestRunner.AmazonTest
+Test set: TestRunner.ParallelRun
 -------------------------------------------------------------------------------
-Tests run: 0, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 89.607 s - in TestRunner.AmazonTest
+Tests run: 0, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 86.073 s - in TestRunner.ParallelRun
